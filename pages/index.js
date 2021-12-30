@@ -13,7 +13,7 @@ import { ResponsiveBar } from '@nivo/bar'
 // you'll often use just a few of them.
 
 const data = [
-  {
+  /*{
     "country": "AD",
     "hot dog": 120,
     "hot dogColor": "hsl(101, 70%, 50%)",
@@ -117,20 +117,58 @@ const data = [
     "friesColor": "hsl(302, 70%, 50%)",
     "donut": 195,
     "donutColor": "hsl(130, 70%, 50%)"
+  }*/
+
+{
+  period: '2021-01',
+  value: 0
+  }, {
+  period: '2021-02',
+  value: 0
+  }, {
+  period: '2021-03',
+  value: 0
+  }, {
+  period: '2021-04',
+  value: 120000
+  }, {
+  period: '2021-05',
+  value: 20000
+  }, {
+  period: '2021-06',
+  value: 20000
+  }, {
+  period: '2021-07',
+  value: 20000
+  }, {
+  period: '2021-08',
+  value: 20000
+  }, {
+  period: '2021-09',
+  value: 20000
+  }, {
+  period: '2021-10',
+  value: 20000
+  }, {
+  period: '2021-11',
+  value: 20000
+  }, {
+  period: '2021-12',
+  value: 20000
   }
 ]
 
 const MyResponsiveBar = ({ data /* see data tab */ }) => (
     <ResponsiveBar
         data={data}
-        keys={[ 'hot dog', 'burger', 'sandwich', 'kebab', 'fries', 'donut' ]}
-        indexBy="country"
+        keys={[ 'value' ]}
+        indexBy="period"
         margin={{ top: 50, right: 130, bottom: 50, left: 60 }}
         padding={0.3}
         valueScale={{ type: 'linear' }}
         indexScale={{ type: 'band', round: true }}
         colors={{ scheme: 'nivo' }}
-        defs={[
+        /*defs={[
             {
                 id: 'dots',
                 type: 'patternDots',
@@ -149,8 +187,8 @@ const MyResponsiveBar = ({ data /* see data tab */ }) => (
                 lineWidth: 6,
                 spacing: 10
             }
-        ]}
-        fill={[
+        ]}*/
+        /*fill={[
             {
                 match: {
                     id: 'fries'
@@ -163,7 +201,7 @@ const MyResponsiveBar = ({ data /* see data tab */ }) => (
                 },
                 id: 'lines'
             }
-        ]}
+        ]}*/
         borderColor={{ from: 'color', modifiers: [ [ 'darker', 1.6 ] ] }}
         axisTop={null}
         axisRight={null}
@@ -171,7 +209,7 @@ const MyResponsiveBar = ({ data /* see data tab */ }) => (
             tickSize: 5,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'country',
+            legend: 'mois',
             legendPosition: 'middle',
             legendOffset: 32
         }}
@@ -179,14 +217,15 @@ const MyResponsiveBar = ({ data /* see data tab */ }) => (
             tickSize: 5,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'food',
+            legend: 'visites',
             legendPosition: 'middle',
-            legendOffset: -40
+            legendOffset: -55
         }}
         labelSkipWidth={12}
         labelSkipHeight={12}
-        labelTextColor={{ from: 'color', modifiers: [ [ 'darker', 1.6 ] ] }}
-        legends={[
+        labelTextColor={{ from: 'color', modifiers: [ [ 'darker', 1,7 ] ] }}
+
+        /*legends={[
             {
                 dataFrom: 'keys',
                 anchor: 'bottom-right',
@@ -209,11 +248,11 @@ const MyResponsiveBar = ({ data /* see data tab */ }) => (
                     }
                 ]
             }
-        ]}
+        ]}*/
         animate={false}
         role="application"
         ariaLabel="Nivo bar chart demo"
-        barAriaLabel={function(e){return e.id+": "+e.formattedValue+" in country: "+e.indexValue}}
+        barAriaLabel={function(e){return e.id+": "+e.formattedValue+" in period: "+e.indexValue}}
     />
 )
 
