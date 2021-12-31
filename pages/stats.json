@@ -1,0 +1,462 @@
+[
+    {
+        "name": "aah",
+        "clicked": 7,
+        "shown": 10
+    },
+    {
+        "name": "af",
+        "clicked": 3,
+        "shown": 34
+    },
+    {
+        "name": "aide_financement_permis_apprenti",
+        "clicked": 44,
+        "shown": 112
+    },
+    {
+        "name": "aide_formation_gen",
+        "clicked": 1,
+        "shown": 6
+    },
+    {
+        "name": "aide_jeunes_diplomes_anciens_boursiers_montant",
+        "clicked": 14,
+        "shown": 30
+    },
+    {
+        "name": "aide_logement",
+        "clicked": 70,
+        "shown": 488
+    },
+    {
+        "name": "aide_merite_montant",
+        "clicked": 4,
+        "shown": 13
+    },
+    {
+        "name": "aide_mobilite_internationale_eligibilite",
+        "clicked": 14,
+        "shown": 74
+    },
+    {
+        "name": "aide_mobilite_master",
+        "clicked": 6,
+        "shown": 17
+    },
+    {
+        "name": "aide_mobilite_parcoursup",
+        "clicked": 1,
+        "shown": 4
+    },
+    {
+        "name": "aide_permis_demandeur_emploi",
+        "clicked": 56,
+        "shown": 132
+    },
+    {
+        "name": "aide_permis_pro_btp",
+        "clicked": 11,
+        "shown": 148
+    },
+    {
+        "name": "asf",
+        "clicked": 7,
+        "shown": 59
+    },
+    {
+        "name": "asi",
+        "clicked": 0,
+        "shown": 2
+    },
+    {
+        "name": "aspa",
+        "clicked": 1,
+        "shown": 5
+    },
+    {
+        "name": "ass",
+        "clicked": 16,
+        "shown": 57
+    },
+    {
+        "name": "auvergne-rhone-alpes-bourse-merite",
+        "clicked": 14,
+        "shown": 42
+    },
+    {
+        "name": "bourse_college",
+        "clicked": 2,
+        "shown": 16
+    },
+    {
+        "name": "bourse_criteres_sociaux",
+        "clicked": 62,
+        "shown": 328
+    },
+    {
+        "name": "bourse_lycee",
+        "clicked": 0,
+        "shown": 8
+    },
+    {
+        "name": "brest_metropole_transport",
+        "clicked": 0,
+        "shown": 8
+    },
+    {
+        "name": "bretagne-jeune-international",
+        "clicked": 2,
+        "shown": 6
+    },
+    {
+        "name": "caah",
+        "clicked": 0,
+        "shown": 2
+    },
+    {
+        "name": "caf-aide-nationale-bafa",
+        "clicked": 24,
+        "shown": 191
+    },
+    {
+        "name": "caf-ain-aide-bafa-session-approfondissement-qualification",
+        "clicked": 0,
+        "shown": 2
+    },
+    {
+        "name": "caf-ain-aide-bafa-session-generale",
+        "clicked": 0,
+        "shown": 2
+    },
+    {
+        "name": "caf-alpes-maritimes-aide-bafa-approfondissement",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "caf-alpes-maritimes-aide-bafa-generale",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "caf-aveyron-aide-bafa-approfondissement",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "caf-charente-aide-bafa-generale",
+        "clicked": 0,
+        "shown": 2
+    },
+    {
+        "name": "caf-loire-aide-bafa-approfondissement",
+        "clicked": 0,
+        "shown": 3
+    },
+    {
+        "name": "caf-loire-aide-bafa-generale",
+        "clicked": 0,
+        "shown": 3
+    },
+    {
+        "name": "caf-puy-de-dome-aide-bafa-generale",
+        "clicked": 0,
+        "shown": 3
+    },
+    {
+        "name": "caf-val-de-marne-aide-bafa-approfondissement-qualification",
+        "clicked": 0,
+        "shown": 14
+    },
+    {
+        "name": "caf-val-de-marne-aide-bafa-formation-generale",
+        "clicked": 1,
+        "shown": 14
+    },
+    {
+        "name": "carte_sncf_eleve_apprenti_eligibilite",
+        "clicked": 127,
+        "shown": 1004
+    },
+    {
+        "name": "centre-val-de-loire-ordinateur",
+        "clicked": 2,
+        "shown": 3
+    },
+    {
+        "name": "cf",
+        "clicked": 0,
+        "shown": 10
+    },
+    {
+        "name": "cheque_energie",
+        "clicked": 200,
+        "shown": 542
+    },
+    {
+        "name": "cotes_d_armor_fonds_solidarite_logement_energie_eligibilite",
+        "clicked": 1,
+        "shown": 16
+    },
+    {
+        "name": "crous_logement_eligibilite",
+        "clicked": 6,
+        "shown": 328
+    },
+    {
+        "name": "crous_repas_un_euro_eligibilite",
+        "clicked": 17,
+        "shown": 348
+    },
+    {
+        "name": "css_participation_forfaitaire",
+        "clicked": 39,
+        "shown": 751
+    },
+    {
+        "name": "depart1825_montant_maximum",
+        "clicked": 487,
+        "shown": 1862
+    },
+    {
+        "name": "eure_et_loir_eligibilite_fsl_acces_logement",
+        "clicked": 0,
+        "shown": 5
+    },
+    {
+        "name": "eure_et_loir_fsl_eligibilite_installation_logement",
+        "clicked": 0,
+        "shown": 5
+    },
+    {
+        "name": "eure_et_loir_fsl_eligibilite_maintien_fourniture",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "eure_et_loir_fsl_eligibilite_maintien_logement",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "eurometropole_strasbourg_tarification_solidaire_transport_montant",
+        "clicked": 3,
+        "shown": 14
+    },
+    {
+        "name": "fsl_eligibilite",
+        "clicked": 262,
+        "shown": 1455
+    },
+    {
+        "name": "garantie_jeunes",
+        "clicked": 140,
+        "shown": 415
+    },
+    {
+        "name": "garantie_pret_etudiant_eligibilite",
+        "clicked": 48,
+        "shown": 634
+    },
+    {
+        "name": "grand-est-aide-mobilite-internationale-etudiants",
+        "clicked": 1,
+        "shown": 8
+    },
+    {
+        "name": "grand_est_fluo_67_eligible_gratuite",
+        "clicked": 3,
+        "shown": 10
+    },
+    {
+        "name": "gratuite_musees_monuments",
+        "clicked": 103,
+        "shown": 1970
+    },
+    {
+        "name": "hauts-de-france-mon-abo-etudiant-ter",
+        "clicked": 17,
+        "shown": 391
+    },
+    {
+        "name": "hauts_de_france_aide_permis",
+        "clicked": 13,
+        "shown": 44
+    },
+    {
+        "name": "ile-de-france-aide-aux-bacheliers-meritants",
+        "clicked": 2,
+        "shown": 5
+    },
+    {
+        "name": "livret_epargne_populaire_taux",
+        "clicked": 39,
+        "shown": 1331
+    },
+    {
+        "name": "locapass_eligibilite",
+        "clicked": 9,
+        "shown": 401
+    },
+    {
+        "name": "mon_job_mon_logement",
+        "clicked": 51,
+        "shown": 121
+    },
+    {
+        "name": "msa_haute_normandie_aide_permis",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "msa_midi_pyrenees_sud_aide_permis",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "msa_nord_pas_de_calais_aide_permis",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "msa_portes_de_bretagne_aide_permis",
+        "clicked": 2,
+        "shown": 2
+    },
+    {
+        "name": "nantes_metropole_tarification_solidaire_transport",
+        "clicked": 3,
+        "shown": 17
+    },
+    {
+        "name": "nouvelle-aquitaine-aide-passage-permis-conduire-b",
+        "clicked": 13,
+        "shown": 46
+    },
+    {
+        "name": "nouvelle_aquitaine_carte_solidaire",
+        "clicked": 4,
+        "shown": 84
+    },
+    {
+        "name": "occitanie-premier-equipement-professionnel",
+        "clicked": 1,
+        "shown": 9
+    },
+    {
+        "name": "occitanie_carte_jeune_region",
+        "clicked": 0,
+        "shown": 19
+    },
+    {
+        "name": "occitanie_carte_transport_scolaire_lio",
+        "clicked": 0,
+        "shown": 8
+    },
+    {
+        "name": "paje_base",
+        "clicked": 2,
+        "shown": 72
+    },
+    {
+        "name": "paris_energie_familles",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "paris_logement",
+        "clicked": 2,
+        "shown": 21
+    },
+    {
+        "name": "paris_logement_psol",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "paris_pass_access",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "paris_pass_seniors",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "pass_culture",
+        "clicked": 13,
+        "shown": 189
+    },
+    {
+        "name": "pays-de-la-loire-bourse-regionale-merite",
+        "clicked": 0,
+        "shown": 2
+    },
+    {
+        "name": "pays_de_la_loire_epass_jeunes_culture_sport",
+        "clicked": 4,
+        "shown": 59
+    },
+    {
+        "name": "pays_de_la_loire_epass_jeunes_eligibilite",
+        "clicked": 3,
+        "shown": 59
+    },
+    {
+        "name": "ppa",
+        "clicked": 114,
+        "shown": 462
+    },
+    {
+        "name": "pret_formation_permis_eligibilite",
+        "clicked": 170,
+        "shown": 972
+    },
+    {
+        "name": "provence-alpes-cote-azur-e-pass-jeunes",
+        "clicked": 10,
+        "shown": 83
+    },
+    {
+        "name": "region-auvergne-rhone-alpes-aide-bafa",
+        "clicked": 0,
+        "shown": 5
+    },
+    {
+        "name": "rennes_metropole_transport",
+        "clicked": 2,
+        "shown": 11
+    },
+    {
+        "name": "rsa",
+        "clicked": 26,
+        "shown": 206
+    },
+    {
+        "name": "seances_sante_psy_etudiant",
+        "clicked": 60,
+        "shown": 772
+    },
+    {
+        "name": "seine_saint_denis_cheque_reussite",
+        "clicked": 0,
+        "shown": 1
+    },
+    {
+        "name": "tisseo_transport_reduction",
+        "clicked": 14,
+        "shown": 65
+    },
+    {
+        "name": "vendee_bourses_jeunes_benevoles_montant_max",
+        "clicked": 2,
+        "shown": 30
+    },
+    {
+        "name": "visale_eligibilite",
+        "clicked": 41,
+        "shown": 664
+    }
+]
